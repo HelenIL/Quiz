@@ -1,0 +1,65 @@
+/* Nav Bar Specs */
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+#nav {
+    display: block;
+    background-color: teal;
+    display: inline-block;
+    width: 98vw;
+    border: 5px solid blue;
+    border-radius: 5px;
+    margin: 6px;
+}
+
+#navLeft {
+    padding: 5px;
+    margin-left: 10px;
+    font-size: 30px;
+}
+#navRight {
+    padding: 5px;
+    margin-right: 10px;
+    font-size: 30px;
+}
+
+/* Main Quiz Specs */
+
+body {
+    font-family: 'OCR A Std', monospace;
+    background-color: lightblue;
+}
+
+#quizBody {
+    text-align: center;
+    padding: 12vh;
+    font-size: 50px;
+}
+
+
+button {
+    border: none;
+    background-color: blue;
+    color: teal;
+    border-radius: 5px;
+    padding: 10px 16px 10px 16px;
+    font-size: 17px;
+    font-family: 'OCR A Std', monospace;
+    margin: 4px;
+}
+#btn {
+    font-size: 50px;
+}
+
+button:hover {
+    transition-duration: 0.4s;
+    background-color: lime;
+}
+#quiz {
+    text-align: center;
+}
