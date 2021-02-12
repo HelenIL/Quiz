@@ -15,7 +15,7 @@ When a question is answered incorrectly, time is subtracted from the clock. When
 <img src="Assets/quizPic3.png" alt="quiz high score page"><br><br>
 Link to deployed page here: <a href="https://helenil.github.io/Quiz/">https://helenil.github.io/Quiz/</a><br><br>
 <h2>Technologies used:</h2><br>
-HTML, CSS, BOOTSTRAP CDN<br><br>
+HTML, CSS, JAVASCRIPT<br><br>
 <h2>Credits:</h2>
 Helen Lindberg<br>
 Email: helenilindberg@yahoo.com<br>
